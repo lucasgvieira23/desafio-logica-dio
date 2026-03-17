@@ -1,0 +1,18 @@
+let potecafe = "Café pilão" // Tudo minúsculo aqui
+let acucar = "Açúcar cristal"
+let biscoito = "Biscoito maizena"
+const mensagemdavovó = "Na cozinha da vovó hoje tem: " 
+
+console.log(mensagemdavovó + 
+potecafe + " - " + // Ajustado para minúsculo
+acucar + " - " + 
+biscoito
+)
+
+potecafe = "Café 3 corações"
+
+console.log(mensagemdavovó + 
+potecafe + " - " +
+acucar + " - " +
+biscoito
+)

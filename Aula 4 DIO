@@ -1,8 +1,0 @@
-// nome,idade ,número de telefone, CPF, endereço
-let nome = "Maria"
-let idade = 76
-let numerodetelefone = "87-998712392"
-let CPF = "234.676.908.23"
-let endereço = "Bairro das graças de josé, Rua do Algodão, n° 231"
-let recebepensao = true
-

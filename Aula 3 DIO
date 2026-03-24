@@ -1,7 +1,0 @@
-//pokemon
-let nomepokemon = "Pikachu"
-let nivelpokemon = 20
-let pontosdevidapokemon = 45
-let pokemonsexo = 'M'
-let selecionavel = true
-

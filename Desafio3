@@ -1,0 +1,11 @@
+const tipoMensagem = gets();
+let contador = 0;
+const prefixoAlvo = tipoMensagem + ":";
+let linha = gets();
+while(linha !== "FIM") {
+    if (linha.startsWith(prefixoAlvo)){
+        contador++;
+    }
+    linha = gets();
+}
+print(contador);

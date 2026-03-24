@@ -6,7 +6,7 @@ let nivel = ""
 // 2. Estrutura de decisão
 if (xpHeroi < 1000) {
     nivel = "Ferro";
-} else if (xpHeroi <= 1001 && xpHeroi <= 2000) {
+} else if (xpHeroi >= 1001 && xpHeroi <= 2000) {
     nivel = "Bronze";
 } else if (xpHeroi <= 2001 && xpHeroi <= 5000) {
     nivel = "Prata";
